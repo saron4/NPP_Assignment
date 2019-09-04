@@ -16,7 +16,7 @@ public class Program7 {
 			   
 			    
 			}
-			System.out.println(count);
+			System.out.println("total text start with 'A' is : " +count);
 			 
 	      } 
 
